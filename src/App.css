@@ -1,0 +1,17 @@
+body {
+    background-image: url('./img/background.jpg');
+    background-repeat: no-repeat,
+}
+.title{
+    color:#ffffff ;
+    text-align: center;
+    padding: 10px;
+}
+
+.body {
+    font-family: 'Brandon Grotesque Regular';
+  }
+
+  
+
+  
